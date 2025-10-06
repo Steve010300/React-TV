@@ -4,6 +4,7 @@
 
 .show {
   padding: 0 1ch;
+  color: white;
 }
 
 .show:not(:last-child) {

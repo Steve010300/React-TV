@@ -1,3 +1,10 @@
+.episodes {
+  background-color: #222;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  color: white;
+}
+
 .episodes ol {
   list-style: none;
 }
